@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+
+Linear vous permet de gérer le développement logiciel et de suivre les bogues. La conception simplifiée de Linear est conçue pour la vitesse et l'efficacité - aidant les équipes hautement performantes à accomplir de grandes choses.
+
+Conseils: Utiliser le menu de commandes (Cmd K sur Mac ou Ctrl K sur Windows) et les raccourcis clavier? pour être plus efficace
+
+Changez le thème en recherchant dans le menu de commande Passer au thème sombre
+
+Vous pouvez parcourir, rechercher, ajouter et modifier des problèmes en mode hors connexion et, une fois de retour en ligne, Linear synchronisera les modifications.
+
+Lorsque vous avez terminé avec ce problème, vous pouvez l'archiver via le menu de commandes ou en utilisant le raccourci clavier #.
+
+###############################
+## Bienvenus sur GitHub Pages.#
 
 You can use the [editor on GitHub](https://github.com/Acidburn0zzz/linear/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
